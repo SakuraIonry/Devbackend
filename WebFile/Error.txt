@@ -1,0 +1,6 @@
+﻿文件下载网址  =>  文件保存路径
+http://www.bjzymedia.com/images/index_focus_bg.png  =>  G:\学习\工作\ASY网站筹备\拔网站\www.bjzymedia.com\images\index_focus_bg.png
+http://www.bjzymedia.com/images/imgshow_mask.png  =>  G:\学习\工作\ASY网站筹备\拔网站\www.bjzymedia.com\images\imgshow_mask.png
+http://www.bjzymedia.com/images/scroll_bg.png  =>  G:\学习\工作\ASY网站筹备\拔网站\www.bjzymedia.com\images\scroll_bg.png
+http://www.bjzymedia.com/images/arrow_r.png  =>  G:\学习\工作\ASY网站筹备\拔网站\www.bjzymedia.com\images\arrow_r.png
+http://www.bjzymedia.com/images/arrow_r_on.png  =>  G:\学习\工作\ASY网站筹备\拔网站\www.bjzymedia.com\images\arrow_r_on.png
